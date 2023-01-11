@@ -17,6 +17,7 @@
 </div>
 
 ### :computer: Проекты:
+- [РЕЗЮМЕ](https://mokryyezhik.github.io/CV/)
 - [Веб-приложение для рекомендации постов пользователям с
 использованием ML модели](https://github.com/MokryYezhik/kc/tree/main/final_project)
 - [Домашние задания по CNN от DLS](https://github.com/MokryYezhik/studying-CNN)
