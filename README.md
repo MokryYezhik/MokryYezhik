@@ -1,9 +1,4 @@
 ### Hi there 👋
-<div id="badges">
-  <a href="https://t.me/MokryYezhik">
-    <img src="https://img.shields.io/badge/Telegram-grey?logo=telegram&style=for-the-badge" alt="Telegram Badge"/>
-  </a>
-</div>
 
 ### :hammer_and_wrench: STACK :
 <div>
